@@ -1,4 +1,4 @@
-## End to End ML project
+## ML project
 
 ### create environment
 
